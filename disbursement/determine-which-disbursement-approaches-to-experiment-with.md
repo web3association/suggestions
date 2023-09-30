@@ -15,7 +15,7 @@ There are a number of approaches to disburse treasury assets that each have thei
 
 **Reasons to ignore this suggestion**
 
-* **Higher cost to experiment** - Developing any new software and processes to experiment with numerous approaches can easily lead to an increase in costs for operating and maintaining a disbursement process. For ecosystems that want to keep their operation as lean as possible they will want to be very deliberate about where they conduct any experiments to avoid wasting too many resources. This preference to stay lean does however need to be balanced with making sufficient process improvements, this is because another risk for these ecosystems is that they could easily fall behind other competing ecosystems if they are not making continuous improvements to their own treasury systems and processes.
+* **Higher cost to experiment** - Developing software and new processes to experiment with different approaches could lead to an increase in costs for operating and maintaining a disbursement process. For ecosystems that need to keep their operation as lean as possible they will want to be more deliberate about exactly where they conduct any experiments to avoid wasting resources. Staying lean does still need to be balanced with making continued improvements to treasury systems and processes to prevent an ecosystem falling behind other competing ecosystems.
 
 
 
@@ -29,10 +29,10 @@ There are a number of approaches to disburse treasury assets that each have thei
 [Disbursement operating process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/independent-priority-process" %}
-[Independent priority process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/independent-priority-process)
+{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/priorities/independent-priority-process" %}
+[Independent priority process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/priorities/independent-priority-process)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/independent-execution-process" %}
-[Independent execution process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/independent-execution-process)
+{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/execution/independent-execution-process" %}
+[Independent execution process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/execution/independent-execution-process)
 {% endcontent-ref %}
