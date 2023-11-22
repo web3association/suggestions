@@ -21,8 +21,8 @@ Ecosystems benefit from being able to identify, discuss and prioritise the diffe
 
 **Relevant resources**
 
-{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/independent-priority-process" %}
-[Independent priority process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/independent-priority-process)
+{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/priorities/independent-priority-process" %}
+[Independent priority process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/priorities/independent-priority-process)
 {% endcontent-ref %}
 
 {% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-approaches" %}

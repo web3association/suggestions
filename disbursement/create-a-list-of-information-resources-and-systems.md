@@ -22,8 +22,8 @@ Ecosystems benefit from being able to determine which sources of information wil
 
 **Relevant resources**&#x20;
 
-{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/adoption-of-knowledge-systems" %}
-[Adoption of knowledge systems](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/adoption-of-knowledge-systems)
+{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/knowledge/adoption-of-knowledge-systems" %}
+[Adoption of knowledge systems](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/knowledge/adoption-of-knowledge-systems)
 {% endcontent-ref %}
 
 {% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process" %}
