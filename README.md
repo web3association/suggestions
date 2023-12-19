@@ -1,14 +1,14 @@
 ---
 description: >-
   Suggestions that can help with thinking about how to improve treasury systems
-  and processes across Web 3 ecosystems
+  and processes across Web3 ecosystems
 ---
 
 # About
 
 <figure><img src=".gitbook/assets/suggestions-title.png" alt=""><figcaption></figcaption></figure>
 
-The following resources provide suggestions for Web 3 ecosystems to consider when iterating on and improving their own treasury systems and processes.&#x20;
+The following resources provide suggestions for Web3 ecosystems to consider when iterating on and improving their own treasury systems and processes.&#x20;
 
 
 

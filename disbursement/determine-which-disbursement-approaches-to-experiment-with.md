@@ -21,18 +21,18 @@ There are a number of approaches to disburse treasury assets that each have thei
 
 **Relevant resources**
 
-{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-approaches" %}
-[Disbursement approaches](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-approaches)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-approaches/decision-approaches" %}
+[Decision approaches](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-approaches/decision-approaches)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process" %}
-[Disbursement operating process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process" %}
+[Disbursement operating process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/priorities/independent-priority-process" %}
-[Independent priority process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/priorities/independent-priority-process)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/priorities/independent-priority-process" %}
+[Independent priority process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/priorities/independent-priority-process)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/execution/independent-execution-process" %}
-[Independent execution process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/execution/independent-execution-process)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/execution/independent-execution-process" %}
+[Independent execution process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/execution/independent-execution-process)
 {% endcontent-ref %}
