@@ -22,10 +22,10 @@ Ecosystems benefit from being able to determine which sources of information wil
 
 **Relevant resources**&#x20;
 
-{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/knowledge/adoption-of-knowledge-systems" %}
-[Adoption of knowledge systems](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/knowledge/adoption-of-knowledge-systems)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/knowledge/knowledge-process" %}
+[Knowledge process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/knowledge/knowledge-process)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process" %}
-[Disbursement operating process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/disbursement-process" %}
+[Disbursement process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/disbursement-process)
 {% endcontent-ref %}

@@ -6,7 +6,9 @@ description: >-
 
 # About
 
-<figure><img src=".gitbook/assets/suggestions-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/suggestions-header-generated.png" alt=""><figcaption></figcaption></figure>
+
+
 
 The following resources provide suggestions for Web3 ecosystems to consider when iterating on and improving their own treasury systems and processes.&#x20;
 

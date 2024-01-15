@@ -21,18 +21,18 @@ There are a number of approaches to disburse treasury assets that each have thei
 
 **Relevant resources**
 
-{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-approaches/decision-approaches" %}
-[Decision approaches](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-approaches/decision-approaches)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/approaches/decision-approaches" %}
+[Decision approaches](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/approaches/decision-approaches)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process" %}
-[Disbursement operating process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/disbursement-process" %}
+[Disbursement process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/disbursement-process)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/priorities/independent-priority-process" %}
-[Independent priority process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/priorities/independent-priority-process)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/priorities/priority-process" %}
+[Priority process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/priorities/priority-process)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/execution/independent-execution-process" %}
-[Independent execution process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/execution/independent-execution-process)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/contributors/contributor-process" %}
+[Contributor process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/contributors/contributor-process)
 {% endcontent-ref %}
