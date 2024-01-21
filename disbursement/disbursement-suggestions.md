@@ -30,9 +30,9 @@ Independent submissions mean that a disbursement process would enable contributo
 
 
 
-## **2. Community preferences & opinions - Feedback and comments invited everywhere**
+## **2. Community preferences & opinions - Preferences and opinions invited throughout disbursement process**
 
-An important part of disbursement for Web3 ecosystems is considering how community members are able to express their preferences and opinions about the information that has been shared during disbursement. Enabling community members to provide their feedback and comments anywhere in the disbursement process on any piece of information that gets submitted has a number of clear advantages. These advantages include that it can help with generating clearer sentiment & approvals, faster feedback & learning, creating a more inclusive environment and increasing the amount of community representation, contributor accountability and community engagement and responsiveness. Relevant resources:
+An important part of disbursement for Web3 ecosystems is considering how community members are able to express their preferences and opinions about the information that has been shared during disbursement. Enabling community members to provide their feedback and comments anywhere in the disbursement process on any piece of information that gets submitted has a number of clear advantages. These advantages include that it can help with generating clearer sentiment & approvals, faster feedback & learning, creating a more inclusive environment and can increase the amount of contributor accountability and community representation, engagement and responsiveness. Relevant resources:
 
 {% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/outcome-influence/voter-preferences-and-opinions" %}
 [Voter preferences & opinions](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/outcome-influence/voter-preferences-and-opinions)
