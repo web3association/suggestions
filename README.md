@@ -8,15 +8,4 @@ description: >-
 
 <figure><img src=".gitbook/assets/suggestions-header-generated.png" alt=""><figcaption></figcaption></figure>
 
-
-
-The following resources provide suggestions for Web3 ecosystems to consider when iterating on and improving their own treasury systems and processes.&#x20;
-
-
-
-**Suggestion structure**
-
-* **Suggestion** - What the suggestion is for thinking about and improving treasury systems.
-* **Why adopt this suggestion?** - Reasons why an ecosystem might decide to adopt the suggestion.
-* **Why ignore this suggestion?** - Reasons why an ecosystem might choose to ignore the suggestion.
-* **Relevant resources** - List of any resources worth reviewing that are relevant to the suggestion.
+The following resources aim to highlight some of the most promising approaches that are worth considering when implementing Web3 treasury systems and processes. The suggestions and considerations are based on the [treasury](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/) and [disbursement](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/) resources.
