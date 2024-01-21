@@ -10,7 +10,7 @@ description: A list of disbursement process suggestions based on the current ana
 
 </div>
 
-The disbursement analysis helps with comparing a number of approaches that could be adopted and integrated into a disbursement process. The following is a list of some of the most promising approaches that were identified.
+The [disbursement analysis](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/) has helped to compare a number of approaches that could be adopted and integrated into a disbursement process. The following is a list of some of the most promising approaches that have been identified so far.
 
 
 
