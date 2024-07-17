@@ -1,5 +1,5 @@
 ---
-description: A list of income related suggestions based on the current analysis
+description: A list of income related suggestions
 ---
 
 # Income suggestions

@@ -2,6 +2,10 @@
 
 * [About](README.md)
 
+## Treasury
+
+* [Treasury suggestions](treasury/treasury-suggestions.md)
+
 ## Funding
 
 * [Funding suggestions](funding/funding-suggestions.md)

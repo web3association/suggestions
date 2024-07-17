@@ -1,5 +1,5 @@
 ---
-description: A list of funding process suggestions based on the current analysis
+description: A list of funding process suggestions
 ---
 
 # Funding suggestions
