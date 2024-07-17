@@ -7,6 +7,10 @@
 * [Funding suggestions](funding/funding-suggestions.md)
 * [Funding process considerations](funding/funding-process-considerations.md)
 
+## Income
+
+* [Income suggestions](income/income-suggestions.md)
+
 ## 🔗 Links
 
 * [Treasuries](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)

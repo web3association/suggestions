@@ -4,7 +4,7 @@ description: A list of funding process suggestions based on the current analysis
 
 # Funding suggestions
 
-The [funding analysis](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/) has compared a number of approaches that could be adopted in a funding process. The following is a list of some of the most promising approaches that have been identified from that analysis.
+The [funding analysis](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/) has compared a number of approaches that could be adopted in a funding process. The following is a list of some of the most promising approaches that have been identified.
 
 
 
