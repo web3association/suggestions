@@ -4,15 +4,27 @@ description: A list of funding process suggestions based on the current analysis
 
 # Funding suggestions
 
+The [funding analysis](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/) has compared a number of approaches that could be adopted in a funding process. The following is a list of some of the most promising approaches that have been identified from that analysis.
+
+
+
+## 1. Funding process experiment - Open source contributor funding
+
 <div align="left">
 
-<figure><img src="../.gitbook/assets/w3a-suggestion.png" alt="" width="115"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/open-source-contributors-icon.png" alt="" width="90"><figcaption></figcaption></figure>
 
 </div>
 
-The [funding analysis](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/) has helped to compare a number of approaches that could be adopted and integrated into a funding process. The following is a list of some of the most promising approaches that have been identified so far.
+Combining the suggestions below led to the suggestion of experimenting with an open source contributor funding process. Contributor funding represents a far simpler funding process than idea funding for both the contributors and voters. Contributor funding can help with reducing budgeting and governance complexities, reducing the amount of duplicated efforts, increasing the amount of flexibility that contributors have to make impact across an ecosystem and can also help with reducing the amount of game theory risks there are in the funding process. Open source contributor funding proposal:
 
-## **1. Funding contributions - Independent submissions**
+{% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/Zzfl1XcpAphbCFDyUysC/" %}
+[Contributors](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/Zzfl1XcpAphbCFDyUysC/)
+{% endcontent-ref %}
+
+
+
+## **2. Funding contributions - Independent submissions**
 
 <div align="left">
 
@@ -28,7 +40,7 @@ Independent submissions mean that a funding process would enable contributors to
 
 
 
-## **2. Community preferences & opinions - Preferences and opinions invited throughout funding process**
+## **3. Community preferences & opinions - Preferences and opinions invited throughout funding process**
 
 An important part of funding for Web3 ecosystems is considering how community members are able to express their preferences and opinions about the information that has been shared during funding. Enabling community members to provide their feedback and comments anywhere in the funding process on any piece of information that gets submitted has a number of clear advantages. These advantages include that it can help with generating clearer sentiment & approvals, faster feedback & learning, creating a more inclusive environment and can increase the amount of contributor accountability and community representation, engagement and responsiveness. Relevant resources:
 
@@ -38,7 +50,7 @@ An important part of funding for Web3 ecosystems is considering how community me
 
 
 
-## **3. Decision making - Delegated idea selection**
+## **4. Decision making - Delegated idea selection**
 
 <div align="left">
 
@@ -54,7 +66,7 @@ There are many different decisions that can occur during funding and a range of 
 
 
 
-## **4. Incentives - Contributor time incentives**
+## **5. Incentives - Contributor time incentives**
 
 <div align="left">
 
@@ -70,7 +82,7 @@ How incentives get attached during the funding process has a large influence on 
 
 
 
-## **5. Contribution verification approaches - Individual time based contribution logs**
+## **6. Contribution verification approaches - Individual time based contribution logs**
 
 <div align="left">
 
@@ -86,7 +98,7 @@ When treasury assets get allocated to help with executing impactful initiatives 
 
 
 
-## **6. Impact measurement approaches - Contributor impact measurement**
+## **7. Impact measurement approaches - Contributor impact measurement**
 
 <div align="left">
 
@@ -98,4 +110,20 @@ Every approach that has been compared are all important for funding processes th
 
 {% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/approaches/impact-measurement-approaches" %}
 [Impact measurement approaches](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/approaches/impact-measurement-approaches)
+{% endcontent-ref %}
+
+
+
+## 8. Idea ownership approaches - Shared ideas&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/shared-ideas.png" alt="" width="320"><figcaption></figcaption></figure>
+
+</div>
+
+A goal of Web3 technology is to help with increasing the amount of decentralization of the networks and technology that society is increasingly relying on. Instead of a group of founders and board members being able to control the direction and usage of certain services the users of these services could be given more ownership and influence over these networks and services. To achieve this outcome it will become increasingly important that ideas are owned by communities of people rather than a few individuals. Shared ideas with elected leadership or emergent leadership are two approaches that are well aligned with the ethos of the Web3 movement. Experimenting with contributor funding instead of idea based funding is one way that more shared ownership of ideas could be better explored. Relevant resources:
+
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/ideas/idea-ownership-approaches" %}
+[Idea ownership approaches](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/ideas/idea-ownership-approaches)
 {% endcontent-ref %}
