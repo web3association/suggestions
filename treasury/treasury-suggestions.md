@@ -32,7 +32,7 @@ Wealth based voting power is a suitable approach in the short term as most ecosy
 
 </div>
 
-There are a number of different voting approaches that could be used. Plurality, majority, proportional, preference and score voting systems cover a wide range of existing approaches. Score voting was one of the most flexible approaches as it could be used for binary decisions and both single selection and multiple selection decisions. Score voting is also more effective for enabling voters to express the intensity of their preferences when voting. Relevant resources:
+There are a number of different voting approaches that could be used. Plurality, majority, proportional, preference and score voting systems cover a wide range of existing approaches. Score voting was one of the most flexible approaches as it could be used for binary decisions and both single selection and multiple selection decisions. Score voting is also one of the more effective approaches for someone to express the intensity of their preference whilst voting. Relevant resources:
 
 {% content-ref url="https://app.gitbook.com/s/qIN4B3DGHPqKOl7e6VuV/voting/voting-approaches" %}
 [Voting approaches](https://app.gitbook.com/s/qIN4B3DGHPqKOl7e6VuV/voting/voting-approaches)
@@ -40,7 +40,7 @@ There are a number of different voting approaches that could be used. Plurality,
 
 
 
-## 3. Score voting - Expressive binary & approval voting with a mass disapproval option
+## 3. Score voting - Expressive approval voting with a mass disapproval option
 
 <div align="left">
 
@@ -48,7 +48,7 @@ There are a number of different voting approaches that could be used. Plurality,
 
 </div>
 
-Score voting can be broken down into its different parts and then the approaches that could be used within each of those parts can be compared to identify any promising approaches that Web3 ecosystems could use. After comparing a number of approaches within score voting systems the most promising suggestion that emerged was the usage of an expressive form of approval voting that also has a mass disapproval option. The same voting option structure that is being suggested can also be applied to binary voting meaning that both binary voting and approval voting could both become expressive. Relevant resources:&#x20;
+Score voting can be broken down into its different parts and then the approaches that could be used within each of those parts can be compared to identify any promising approaches that Web3 ecosystems could use. After comparing a number of approaches within score voting systems the most promising suggestion that emerged was the usage of an expressive form of approval voting that also has a mass disapproval option. The same voting option structure being suggested for approval voting can also be applied to binary voting meaning that both binary voting and approval voting could both adopt this more expressive variation. Relevant resources:
 
 {% content-ref url="https://app.gitbook.com/s/qIN4B3DGHPqKOl7e6VuV/voting/score-voting-approaches" %}
 [Score voting approaches](https://app.gitbook.com/s/qIN4B3DGHPqKOl7e6VuV/voting/score-voting-approaches)
